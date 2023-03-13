@@ -7,7 +7,7 @@ This is Berkeley CS61C Spring22 by GreyPreacher(Alvin Zhang).
 # Labs
 🐱‍👓 The Labs contain 11 independent labs. I put the labs in [another repository](https://github.com/GreyPreacher/Berkeley-CS61C-Lab).
 - [x] [Lab00: Intro and Setup](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab00)
-- [ ] Lab01: C & CGDB
+- [x] [Lab01: C & CGDB](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab01)
 - [ ] Lab02: C Memory Management, Valgrind
 - [ ] Lab03: RISC-V Assembly
 - [ ] Lab04: RISC-V Functions, Pointers
