@@ -1,5 +1,5 @@
 # Berkeley-CS61C
-This is Berkeley CS61C Spring22 by GreyPreacher(Alvin Zhang). 
+This is Berkeley CS61C **Great Ideas in Computer Architecture (Machine Structures)** Spring22 by GreyPreacher(Alvin Zhang). 
 
 # Resources
 📽 All course resources can be found at [this page](https://inst.eecs.berkeley.edu/~cs61c/sp22/).  
