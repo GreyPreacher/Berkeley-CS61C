@@ -8,7 +8,7 @@ This is Berkeley CS61C **Great Ideas in Computer Architecture (Machine Structure
 🐱‍👓 The Labs contain 11 independent labs. I put the labs in [another repository](https://github.com/GreyPreacher/Berkeley-CS61C-Lab).
 - [x] [Lab00: Intro and Setup](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab00)
 - [x] [Lab01: C & CGDB](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab01)
-- [ ] Lab02: C Memory Management, Valgrind
+- [x] [Lab02: C Memory Management, Valgrind](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab02)
 - [ ] Lab03: RISC-V Assembly
 - [ ] Lab04: RISC-V Functions, Pointers
 - [ ] Lab05: Logisim
