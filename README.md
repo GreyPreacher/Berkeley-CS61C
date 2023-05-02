@@ -21,7 +21,7 @@ This is Berkeley CS61C **Great Ideas in Computer Architecture (Machine Structure
 
 # Projects
 🈚 The Projects contain 4 independent projects. I put the projects in 4 independent repositories.
-- [ ] Project1: snek
+- [x] [Project1: snek](https://github.com/GreyPreacher/Berkeley-CS61C-Proj1-snek)
 - [ ] Project2: CS61Classify
 - [ ] Project3: CS61CPU
 - [ ] Project4: Numc
