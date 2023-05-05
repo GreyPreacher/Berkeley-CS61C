@@ -1,5 +1,5 @@
 # Berkeley-CS61C
-😎 This is Berkeley CS61C **Great Ideas in Computer Architecture (Machine Structures)** Spring 2022 by GreyPreacher(Alvin Zhang).  
+😎 This is UC Berkeley CS61C **Great Ideas in Computer Architecture (Machine Structures)** Spring 2022 by GreyPreacher(Alvin Zhang).  
 **IDE**: Linux virtual machine and VSCode.
 
 # Resources
