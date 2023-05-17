@@ -10,7 +10,7 @@
 - [x] [Lab00: Intro and Setup](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab00)
 - [x] [Lab01: C & CGDB](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab01)
 - [x] [Lab02: C Memory Management, Valgrind](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab02)
-- [ ] Lab03: RISC-V Assembly
+- [x] [Lab03: RISC-V Assembly](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab03)
 - [ ] Lab04: RISC-V Functions, Pointers
 - [ ] Lab05: Logisim
 - [ ] Lab06: CPU, Pipelining
