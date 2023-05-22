@@ -22,6 +22,6 @@
 # Projects
 🈚 The Projects contain 4 independent projects. I put the projects in 4 independent repositories.
 - [x] [Project1: snek](https://github.com/GreyPreacher/Berkeley-CS61C-Proj1-snek)
-- [ ] Project2: CS61Classify
+- [x] [Project2: CS61Classify](https://github.com/GreyPreacher/Berkeley-CS61C-Proj2-CS61Classify)
 - [ ] Project3: CS61CPU
 - [ ] Project4: Numc
