@@ -13,7 +13,7 @@
 - [x] [Lab03: RISC-V Assembly](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab03)
 - [x] [Lab04: RISC-V Functions, Pointers](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab04)
 - [x] [Lab05: Logisim](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab05)
-- [ ] Lab06: CPU, Pipelining
+- [x] [Lab06: CPU, Pipelining](https://github.com/GreyPreacher/Berkeley-CS61C-Lab/tree/main/lab06)
 - [ ] Lab07: Caches
 - [ ] Lab08: SIMD Instructions 
 - [ ] Lab09: Thread-Level Parallelism
